@@ -1,5 +1,5 @@
 Programming language used: Java
-cd /home/012/j/jk/jkd150130/AOS1/AOS1
+cd YOUR DIRECTORY
 javac Client.java
 javac Server.java
 java Server -> Run on dc03.utdallas.edu
